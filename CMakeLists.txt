@@ -52,3 +52,5 @@ add_subdirectory(plugin)
 
 # Adds all the targets configured in the "test" folder.
 add_subdirectory(test)
+
+add_subdirectory(apps)
